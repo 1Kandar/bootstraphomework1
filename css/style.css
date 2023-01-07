@@ -1,0 +1,34 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.navbar-nav{
+    margin-left: 90rem;
+    color: azure;
+}
+
+.nav-link{
+    color: aqua;
+}
+
+.navbar-brand{
+    margin-left: 5rem;
+    color: aqua;
+}
+
+.card{
+   margin-top: 3rem;
+    padding-top: 2rem;
+    
+}
+.card-img-top{
+    margin-bottom: 4rem;
+    height: 20rem;
+}
+
+.h100{
+    height: 3rem;
+}
+.card-img-top1{
+    margin-bottom: 10rem;
+}
